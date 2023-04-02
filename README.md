@@ -17,7 +17,7 @@ slave предназначены только для чтения.
 
 ### Решение:
 
-mysql001 - master
+mysql001 - master  
 mysql002 - slave
 
 ![Скриншот 1](https://github.com/PugachEV72/Images/blob/master/2023-04-02_23-17-07.png)
